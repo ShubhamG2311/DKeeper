@@ -18,6 +18,40 @@ By being hosted on the Internet Computer platform, DKeeper App eliminates the ne
 
 - **User Friendly UI**: The App has great User Friendly UI and is made using ReactJS.
 
+## Screenshots
+
+1. Homepage      
+
+<img 
+    src="Screenshots/Homepage.png" 
+    width="75%" 
+    height="100%"
+/>
+
+2. Adding the Note
+
+<img 
+    src="Screenshots/AddingNote.png" 
+    width="75%" 
+    height="100%"
+/>
+
+3. Some Notes Added
+
+<img 
+    src="Screenshots/NotesAdded.png" 
+    width="75%" 
+    height="100%"
+/>
+
+4. Deleting a Note
+
+<img 
+    src="Screenshots/NoteDeleted.png" 
+    width="75%" 
+    height="100%"
+/>
+
 ## Getting Started
 
 To use DKeeper App, follow these steps:
